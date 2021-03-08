@@ -1,7 +1,7 @@
 # Thumbnail-From-Video-Swift-iOS
 Generate video thumbnail with cache for local videos in swift iOS.
 
-# Code: 
+## Code: 
 
 ```swift
 
@@ -39,7 +39,7 @@ Generate video thumbnail with cache for local videos in swift iOS.
 
 ```
 
-# Usage:
+## Usage:
 ```swift
 
 yourImageView.image = self.getVideoThumbnail(url: mediaURL)
