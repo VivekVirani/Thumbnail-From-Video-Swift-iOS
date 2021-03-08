@@ -1,4 +1,5 @@
-    func getVideoThumbnail(url: URL) -> UIImage? {
+    
+func getVideoThumbnail(url: URL) -> UIImage? {
         //let url = url as URL
         let request = URLRequest(url: url)
         let cache = URLCache.shared
