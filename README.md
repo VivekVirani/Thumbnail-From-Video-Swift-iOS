@@ -38,3 +38,10 @@ Generate video thumbnail with cache for local videos in swift iOS.
     }
 
 ```
+
+# Usage:
+```swift
+
+yourImageView.image = self.getVideoThumbnail(url: mediaURL)
+
+```
